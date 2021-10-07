@@ -8,7 +8,7 @@
 * 💻 Interested in DevOps, Networking & Web Dev
 * 📖 Learning JS and Kubernetes at the moment
 
-![Age](https://img.shields.io/badge/Age-19-blue)
+![Age](https://img.shields.io/badge/Age-20-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=arghyadipchak)
 ![Arch](https://img.shields.io/badge/-I_use_Arch_btw-1793D1?logo=archlinux&logoColor=white)
 
