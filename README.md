@@ -6,7 +6,7 @@
 * 😄 Pronouns: He/His
 * 👨‍🎓 Studying BMath (3rd Year) at [ISI Bangalore](https://isibang.ac.in)
 * 💻 Interested in DevOps, Networking & Web Dev
-* 📖 Learning JS and Kubernetes at the moment
+* 📖 Learning Go and Kubernetes at the moment
 
 ![Age](https://img.shields.io/badge/Age-20-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=arghyadipchak)
@@ -28,6 +28,7 @@
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JS](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
