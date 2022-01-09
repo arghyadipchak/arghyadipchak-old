@@ -5,7 +5,7 @@
 **About ME:**
 * 😄 Pronouns: He/His
 * 👨‍🎓 Studying BMath (3rd Year) at [ISI Bangalore](https://isibang.ac.in)
-* 💻 Interested in DevOps, Networking & Web Dev
+* 💻 Interested in Cloud, DevOps & Networking 
 * 📖 Learning Go and Kubernetes at the moment
 
 ![Age](https://img.shields.io/badge/Age-20-blue)
@@ -56,7 +56,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=arghyadipchak&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arghyadipchak&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadipchak&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadipchak&hide=html&theme=tokyonight&layout=compact)
 
 
 ## Connect with ME
