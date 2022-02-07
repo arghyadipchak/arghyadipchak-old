@@ -3,10 +3,11 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" height="180" />
 
 **About ME:**
-* 😄 Pronouns: He/His
-* 👨‍🎓 Studying BMath (3rd Year) at [ISI Bangalore](https://isibang.ac.in)
-* 💻 Interested in Cloud, DevOps & Networking 
-* 📖 Learning Go and Kubernetes at the moment
+- 😄 Pronouns: He/His
+- 🗣️ Languages: Bengali, English, Hindi
+- 👨‍🎓 Studying BMath (3rd Year) at [ISI Bangalore](https://isibang.ac.in)
+- 💻 Interested in Cloud, DevOps & Networking
+- 📖 Learning Go and Kubernetes at the moment
 
 ![Age](https://img.shields.io/badge/Age-20-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=arghyadipchak)
@@ -43,11 +44,14 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![RPi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![RPi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Traefik](https://img.shields.io/badge/-Traefik-00ADD8?style=flat-square&logo=traefik&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -65,4 +69,5 @@
 [![GMail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghyadip.chak16@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arghyadipchak/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghyadip-chakraborty/)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/arghyadipchak)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arghyadipchak)
