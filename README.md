@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/His
 - 🗣️ Languages: Bengali, English, Hindi
 - 👨‍🎓 MS Computer Science Student at [Chennai Mathematical Institute](https://www.cmi.ac.in)
-- 💻 Interested in Cloud, Computer Networks and Distributed Systems
+- 💻 Interested in Cloud, Computer Networks and Operating Systems
 - 📖 Learning Haskell, Kubernetes and Rust at the moment
 
 ![Age](https://img.shields.io/badge/Age-20-blue)
