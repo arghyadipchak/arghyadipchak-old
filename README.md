@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" height="180" />
 
 **About ME:**
-- 😄 Pronouns: He/Him
 - 🗣️ Languages: Bengali, English, Hindi
 - 👨‍🎓 MS Computer Science Student at [Chennai Mathematical Institute](https://www.cmi.ac.in)
+- 💼 System Engineer (Intern) at [Subconscious Compute](https://www.subcom.tech)
 - 💻 Interested in Cloud, Computer Networks and Operating Systems
-- 📖 Learning Kubernetes and Rust at the moment
+- 📖 Learning Rust at the moment
 
 ![Age](https://img.shields.io/badge/Age-21-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=arghyadipchak)
