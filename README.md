@@ -49,9 +49,16 @@
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-## Github Stats
+## My Stats
 
-![](https://github-readme-stats.vercel.app/api?username=arghyadipchak&show_icons=true&theme=tokyonight) ![](https://github-readme-streak-stats.herokuapp.com/?user=arghyadipchak&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadipchak&hide=html&theme=tokyonight&layout=compact)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arghyadipchak&count_private=true&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghyadipchak&hide=html&layout=donut&theme=tokyonight">
+</a></p>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arghyadipchak&layout=compact&api_domain=wakapi.dev&range=last_30_days&theme=tokyonight">
+</a></p>
 
 ## Connect with ME
 
