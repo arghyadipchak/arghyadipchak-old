@@ -52,12 +52,12 @@
 ## My Stats
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arghyadipchak&count_private=true&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghyadipchak&hide=html&layout=donut&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arghyadipchak&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghyadipchak&hide=html&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
 </a></p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arghyadipchak&layout=compact&api_domain=wakapi.dev&range=last_30_days&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arghyadipchak&layout=compact&api_domain=wakapi.dev&range=last_30_days&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
 </a></p>
 
 ## Connect with ME
